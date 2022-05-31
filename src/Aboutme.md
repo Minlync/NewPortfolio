@@ -9,7 +9,7 @@ tags: navItem
        <div class="p25">
         <img src="/images/title.png">
            <p class="p25">I am Minglin. Ming in Chinese stands for the bright moon and the " lin" stands for "琳" means the king of woods.</p>
-           <p class="p25">I am from China then move to Brooklyn. So, I am made in China, but rebuilt in New York City.</p>
+           <p class="p25">Made in China, base on New York City.</p>
            <h2>Features of me:</h2>
            <p> Native Language: Mandarin</p>
            <p>  Second Language: English</p>
