@@ -56,7 +56,8 @@ html,body {
     @media screen and (max-width: 500px) {
     .container{
         /* width: 100%; */
-        padding: 0px; 
+        padding: 0;
+        margin: 0px; 
         display: flex;
         align-content: center;
         flex-direction: column;
@@ -66,9 +67,9 @@ html,body {
      }
 
      .c50{
-         width:100%
+         width: auto;
      }
      .about_container2{
-        padding: 0px; 
+        padding: 0; 
         flex-direction: row; 
      }
