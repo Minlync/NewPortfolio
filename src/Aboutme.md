@@ -4,36 +4,36 @@ layout: Aboutme.njk
 tags: navItem
 ---
 
-<div class="container">
-      <div class="c50 pink p25">
-        <img src="/images/title.png" width="100%">
-         <div class="p40">
-              <p>I am Minglin. Ming in Chinese stands for the bright moon and the " lin" stands for "琳" means the king of woods.</p>
-             <h3 class="p25">MADE IN CHINA, BASE ON NYC</h3>
-              <div class="p25">
-             <h2>Features of me:</h2>
-             <p> Native Language: Mandarin</p>
-             <p>  Second Language: English</p>
-             <p>Adobe software  Lover</p>
-             <p> Art Lover</p>
-             <p> Nature Lover</p>
-         </div>
+<div class="about_container">
+      <div class="w50">
+       <div class="p25">
+        <img src="/images/title.png">
+           <p class="p25">I am Minglin. Ming in Chinese stands for the bright moon and the " lin" stands for "琳" means the king of woods.</p>
+           <p class="p25">I am from China then move to Brooklyn. So, I am made in China, but rebuilt in New York City.</p>
+           <h2>Features of me:</h2>
+           <p> Native Language: Mandarin</p>
+           <p>  Second Language: English</p>
+           <p>Adobe software  Lover</p>
+           <p> Art Lover</p>
+           <p> Nature Lover</p>
+           </div>
+      </div>
+     <div class="w50">
+         <img src="/images/profile.png" width="100%">
         </div>
-  </div>
+    </div>
+</div>
     
 
        
 <!-- portrait-->
-       
- <div class="c50 pink">
-         <img src="/images/profile.png" width="100%">
-        </div>
-    </div>
+ 
+ 
 
 <!-- tools-->
 <div class="about_container2">
-        <div class="c50 p25">
-             <img src="/images/tools.png" width="100%">
+        <div class="w50 p25">
+             <img src="/images/tools.png">
          </div>
            <div class="icons">
              <img src="https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png" width="60px" height="60px">
@@ -51,7 +51,7 @@ tags: navItem
   
  <div class="about_container2">
           <div class="p40">
-             <img class="c50" src="/images/experience.png" width="100%">
+             <img class="w50" src="/images/experience.png">
              <div class="p40 c50">
               <h2> Freelance Digital Designer</h2>
               <h3> August, 2015 –  Present</h3>

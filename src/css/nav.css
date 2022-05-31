@@ -91,7 +91,7 @@
   @media only screen and (max-width: 768px) {
     .hero{
      display:block;
-    //  width:100%
+    /* width:100% */
     }
   .herotext{
   padding:40px;
