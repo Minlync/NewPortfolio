@@ -1,0 +1,93 @@
+html,body {
+height: 100%;
+margin:0;
+background-color:#efe8ee;
+   
+}
+
+video,img{
+    max-width:100%;
+}
+/* project card css*/
+.collector_container{
+max-width:1400px;
+margin:0 auto;
+}
+.uiux{
+ padding:20px;
+ justify-content: center;
+ display:grid;
+ grid-template-columns: repeat(2, 1fr);
+ align-items: center;
+ grid-gap:auto;
+}
+
+.pjcard img{
+  border-top-left-radius: 25px;
+ border-top-right-radius: 25px;
+ max-width:100%;
+ max-height:100%;
+ }
+.pjcard{
+   
+   border: none;
+   border-radius: 25px;
+   margin:40px;
+   max-width:80%;
+   max-height:100%;
+   background-color:#f5f5f5;
+   justify-content: center;
+   align-items: center;
+ }
+.pjcard img:hover { 
+opacity: 0.6;
+top:-1
+}
+ 
+ 
+ 
+.pjcard_text{
+   
+   font-size:14px;
+   margin:20px;
+   color:#fff;
+ }
+ 
+.pjcard:hover{
+  
+   background-color:#ffe5ff;
+   
+ }
+
+.card_text{
+  font-size:18px;
+  margin:20px;
+  padding:5px;
+  color:#5c5c5c;
+   line-height:10px;
+}
+
+.card_text:hover{
+  font-size:21px;
+  color:#8b74fb;
+  transition: 0.2s;
+}
+.uiux a{
+  color:#8b74fb;
+  text-decoration:none;
+    
+  }
+.uiux a:hover{
+  color:#634fc4;
+  text-decoration:underline;
+}
+  
+ /*pjcard css end */
+
+  @media screen and (max-width: 500px) {
+    .uiux {
+        display: grid;
+        grid-gap: 1rem;
+        grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));  
+        justify-content:center;
+    }
