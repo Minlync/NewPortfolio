@@ -1,10 +1,9 @@
 ---
-title: UIUX
+title: Graphic Design
 layout: collector.njk
 tags: navItem
 ---
-
-   <div class="uiux">{% for page in collections.uiux %}
+<div class="uiux">{% for page in collections.graphic %}
       <div class="pjcard">
          <a href="/#"></a>
          <img src="/images/{{page.data.postImg}}" alt="{{page.data.postImgAlt}}">

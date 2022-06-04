@@ -3,7 +3,7 @@ title: Home
 layout: base.njk
 tags: navItem
 ---
-<div class="container">
+<div class="home_container">
     <div class="c50">
       <img src="/images/PURPLE_01.png" width="100%" height="100%">
     </div>
