@@ -125,15 +125,16 @@ max-width:100%;
   
   }
   .contact_container{
-    padding: 0;
+    /* padding: 0; */
+    margin:0 auto;
     display: grid;
     grid-gap: 1rem;
     grid-template-columns: 1fr;
     justify-content: center;
   }
   .cardforcontact{
-    width: 250px;
+    width: 300px;
     padding: 20px;
-    margin:0;
+    margin:auto;
   }
   
