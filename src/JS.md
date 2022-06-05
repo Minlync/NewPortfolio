@@ -3,7 +3,7 @@ title: JavaScript
 layout: collector.njk
 tags: navItem
 ---
-<div class="uiux">{% for page in collections.JS %}
+<div class="uiux">{% for page in collections.Javascript %}
       <div class="pjcard">
          <a href="/#"></a>
          <img src="/images/{{page.data.postImg}}" alt="{{page.data.postImgAlt}}">

@@ -1,7 +1,7 @@
 ---
 title: William's Day
 layout: base.njk
-tags: ['work','JS']
+tags: ['work','Javascript']
 postImg: "willsday.jpg"
 postImgAlt: "will'sday"
 Time: "December, 2021"
