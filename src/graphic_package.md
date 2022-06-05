@@ -7,8 +7,7 @@ postImgAlt: "Esunmeet Package Design"
 Time: "April, 2018"
 Location: "Fujian,China"
 ---
-<main>
-    <section class="container">
+ <section class="container p40">
       <h1>ESUNMEET NEW YEAR"S AND Christmas Package Design </h1>
       <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/937e65117027239.61874160a082c.jpeg"> 
       <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/18a782117027239.61874160a0f58.jpeg">
@@ -42,4 +41,3 @@ Location: "Fujian,China"
      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/c5f8d7117027239.606ddd1136666.png" width="1200px" height="100%">
      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/498ea0117027239.606ddd1136ca4.png" width="1200px" height="100%">
   </section>
-</main>
