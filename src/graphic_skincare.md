@@ -1,5 +1,5 @@
 ---
-title: Dela Cruz Skincare Brand Design
+title: Dela Cruz  Brand Design
 layout: base.njk
 tags: ['work','graphic']
 postImg: "delacruz.jpg"
