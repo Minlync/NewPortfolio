@@ -18,6 +18,7 @@ Location: "Fujian, China"
      <img src="/images/oldhouse/LaoFangZiVIDesign_Page_5.jpg" alt="">
    <img src="/images/oldhouse/LaoFangZiVIDesign_Page_6.jpg" alt="">
  <img src="/images/oldhouse/LaoFangZiVIDesign_Page_7.jpg" alt="">
+  <img src="/images/oldhouse/老房子LOGO-10.jpg" alt="">
    <img src="/images/oldhouse/LaoFangZiVIDesign_Page_8.jpg" alt="">
         <img src="/images/oldhouse/LaoFangZiVIDesign_Page_9.jpg" alt="">
     <script src="script.js"></script>
