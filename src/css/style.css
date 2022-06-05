@@ -107,6 +107,7 @@ max-width:100%;
   margin: 4px 2px;
   cursor: pointer;
 }
+
   /* responsive*/
   @media screen and (max-width: 500px) {
     .home_container{
