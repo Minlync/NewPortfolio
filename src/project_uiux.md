@@ -7,7 +7,7 @@ tags: navItem
    <div class="uiux">{% for page in collections.uiux %}
       <div class="pjcard">
          <a href="/#"></a>
-         <img src="/images/{{page.data.postImg}}" alt="{{page.data.postImgAlt}}">
+          <a href="{{page.url}}"><img src="/images/{{page.data.postImg}}" alt="{{page.data.postImgAlt}}"></a>
           <div class="card_text">
              <h3> <a href="{{page.url}}">{{page.data.title}}</a></h3> 
              <p>{{page.data.Time}} </p>
