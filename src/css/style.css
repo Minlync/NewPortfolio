@@ -91,7 +91,22 @@ max-width:100%;
   .cardforcontact:hover {
     background-color:#eeb1cf;
    }
+/* button */
 
+..button1{
+  border: none;
+  border-radius: 5px;
+  color:white;
+  background-color: #ef7a85;
+  padding: 10px 15px;/*the botton size*/
+  text-align:center;
+  font-weight: normal;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
   /* responsive*/
   @media screen and (max-width: 500px) {
     .home_container{
