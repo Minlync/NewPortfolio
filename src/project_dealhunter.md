@@ -1,5 +1,5 @@
 ---
-title: The Deal Hunter UI/UX Case Study
+title: The Deal Hunter UI/UX 
 layout: base.njk
 tags: ['work','uiux']
 postImg: "thedealhunter.jpeg"
