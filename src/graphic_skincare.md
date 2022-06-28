@@ -24,6 +24,7 @@ h1{
   <div class="container p40">
       <h1>WHO ARE WE?</h1>
       <p>In the early 1990s, the founder Dr. Dela Cruz established her own business in California.  It began as a small collection in a lovely neighborhood that has evolved into skincare and personal care products. In 2020, Dr. Cruz created the Dela Cruz beauty business. Dela Cruz is a newborn skincare brand that combines natural plant ingredients, innovative skincare science, and ancient formulas.  Dela Cruz harnesses the power of nature’s nourishing ingredients to make a safe skincare product. Dela Cruz is keen on protecting the environment, and all packing box materials are eco-friendly recycled, and reusable.</p>
+    <iframe style="width:100%;height:800px" src="https://online.fliphtml5.com/xvzea/bjit/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
       <img src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/2f9667141916135.625d82725f764.png">
       <img src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/9d3cff141916135.625d827261ab1.jpg">
       <h1>Brand Standards Guide</h1>
