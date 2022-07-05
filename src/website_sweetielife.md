@@ -1,5 +1,5 @@
 ---
-title: Sweetie Life
+title: Sweetie Life Website Development
 layout: base.njk
 tags: ['work','website']
 postImg: "sweetielife.jpg"
@@ -8,19 +8,16 @@ Time: "July, 2022"
 Location: "New York, NY"
 ---
 <style>
-/* body { */
-  /* background-color:#6B932B; */
-  /*color:;*/
-/* } */
+
 
 p{
 color:#FFFFFF; 
 }
 h1{
-  color:#EAB3CB; 
+  color:#ffffff; 
 }
 </style>
-<main>
+<main style="background-color:#EAB3CB;">
  <div class="container">
       <h1 class="p40">SweetieLife Website</h1>
       <form>
