@@ -1,5 +1,5 @@
 ---
-title: Sweetie Life Website Development
+title: Sweetie Life Website
 layout: base.njk
 tags: ['work','website']
 postImg: "sweetielife.jpg"
