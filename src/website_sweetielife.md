@@ -19,7 +19,7 @@ h1{
 </style>
 <main style="background-color:#EAB3CB;">
  <div class="container">
-      <h1 class="p40">SweetieLife Website</h1>
+      <h1 class="p40">Sweetie Life Website Development</h1>
       <form>
         <button type="submit" formaction="https://sweetielife.netlify.app/"target="_blank"class="button1">See website</button>  
       <button type="submit" formaction="https://www.behance.net/gallery/147476357/Sweetie-Life-Design-and-Development"target="_blank"class="button1">Case Study</button>  
