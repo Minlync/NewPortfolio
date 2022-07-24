@@ -1,7 +1,7 @@
 ---
 title: Sweetie Life Website
 layout: base.njk
-tags: ['work','website']
+tags: ['work','website','uiux']
 postImg: "sweetielife.jpg"
 postImgAlt: "sweetielife"
 Time: "July, 2022"
