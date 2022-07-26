@@ -9,7 +9,6 @@ Location: "Fujian, China"
 ---
  <div class="container p40">
    <H2> YiQu Bamboo Industry Logo and Packing Design</H2>
-    <p>July 2021, a client contacted me. He wanted to design a visual identity for his new bamboo industry company. </p>
     <p>Bamboo has an incredibly long history in China. In fact, its use dates all the way back to the 11th century BC. Throughout China's history, bamboo has been used to create food, transportation, weaponry, housing, instruments, books, and a series of life-essential supplies.</p>
     <p>The meaning of Bamboo is very significant for the Chinese.
     Chinese character is a type of graphic variant.
