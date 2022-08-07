@@ -5,7 +5,7 @@ tags: ['work','graphic']
 postImg: "tarotaro.jpg"
 postImgAlt: "tarotaroboba"
 Time: "August, 2022"
-Location: "Fujian,China"
+Location: "Newington, CT"
 ---
 <div class="container2 p40">
  <h1 class="p40"> Taro Taro LOGO </h1>
