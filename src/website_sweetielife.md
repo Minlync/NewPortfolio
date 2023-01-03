@@ -33,6 +33,7 @@ h1{
       <h1>GOALS</h1>
       <p>To teach and guide all visitors that are on different pastry making levels by presenting them with a few pastries, their history, and a recipe they can follow for each treat. As well as introducing monthly and yearly packets the audience can buy if they are interested in more in depth lessons plus exclusive recipes.  </p>
       <img src="/images/sweetielifemockup.jpg">
+      <iframe width="100%" height="600" src="https://www.youtube.com/embed/MpnL1ppU0ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
   </div>
