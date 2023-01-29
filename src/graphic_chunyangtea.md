@@ -1,5 +1,5 @@
 ---
-title: Chunyang Tea NewYork
+title: Taro Taro
 layout: base.njk
 tags: ['work','graphic']
 postImg: "chunyangtea.jpg"

@@ -14,12 +14,10 @@ Location: "Newington, CT"
 The target audience of Taro Taro is the young female group among the Asian group or non-Asian group in North America. They want a logo that can deliver their friendly brand spirit.
 In the design, I used purple from the taro ingredient as a dominant color and draw an adorable taro image that holds a straw on the top of the cup. Personification is a common strategy also in the design field.
 On the other hand, the taro also would treat as a cheese cream topping in the boba.</p>
-      <img src="/images/tarotaro/tarologodraft2.jpg" width="100%">
-      <img src="/images/tarotaro/tarologodraft22.jpg" width="100%">
-      <img src="/images/tarotaro/tarologodraft23.jpg" width="100%">
-      <img src="/images/tarotaro/tarologodraft24.jpg" width="100%">
-      <img src="/images/tarotaro/tarologodraft25.jpg" width="100%">
-      <img src="/images/tarotaro/tarologodraft26.jpg" width="100%">
-      <img src="/images/tarotaro/tarologodraft27.jpg" width="100%">
-      <img src="/images/tarotaro/tarologodraft28.jpg" width="100%">
+      <img src="/images/tarotaro/tarotaro logo design_Page_1.jpg" width="100%">
+      <img src="/images/tarotaro/tarotaro logo design_Page_2.jpg" width="100%">
+      <img src="/images/tarotaro/tarotaro logo design_Page_3.jpg" width="100%">
+      <img src="/images/tarotaro/tarotaro logo design_Page_4.jpg" width="100%">
+      <img src="/images/tarotaro/mockup.jpg" width="100%">
+      <img src="/images/tarotaro/mockup2.jpg" width="100%">
     </div>
