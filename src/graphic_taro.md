@@ -20,4 +20,5 @@ In the design, I used purple as the dominant color which I drew from the taro in
       <img src="/images/tarotaro/tarotaro logo design_Page_4.jpg" width="100%">
       <img src="/images/tarotaro/mockup.jpg" width="100%">
       <img src="/images/tarotaro/mockup2.jpg" width="100%">
+      <img src="/images/tarotaro/tarotaro02.png" width="100%">
     </div>
