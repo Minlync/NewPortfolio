@@ -2,7 +2,7 @@
 title: Taro Taro
 layout: base.njk
 tags: ['work','graphic']
-postImg: "tarotaro.jpg"
+postImg: "tarotaro-2.jpg"
 postImgAlt: "tarotaroboba"
 Time: "August, 2022"
 Location: "Newington, CT"
