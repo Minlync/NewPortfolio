@@ -14,8 +14,7 @@ Location: "Newington, CT"
 Address: 2993 Berlin Turnpike, Newington, CT 06111
 </p>
 <p><a href="https://www.mytarotaro.com">Check their website</a></p>
-
-      <img src="/images/tarotaro/tarotaro logo design_Page_1.jpg" width="100%">
+     <img src="/images/tarotaro/tarotaro logo design_Page_1.jpg" width="100%">
       <img src="/images/tarotaro/tarotaro logo design_Page_2.jpg" width="100%">
       <img src="/images/tarotaro/tarotaro logo design_Page_3.jpg" width="100%">
       <img src="/images/tarotaro/tarotaro logo design_Page_4.jpg" width="100%">

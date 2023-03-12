@@ -1,5 +1,5 @@
 ---
-title: Taro Taro
+title: ChunyangTea
 layout: base.njk
 tags: ['work','graphic']
 postImg: "chunyangtea.jpg"
