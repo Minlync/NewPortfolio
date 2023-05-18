@@ -1,7 +1,7 @@
 ---
 title:  Craigslist UI/UX Case Study
 layout: base.njk
-tags: ['work','uiux']
+# tags: ['work','uiux']
 postImg: "craiglist.jpeg"
 postImgAlt: "re-design craigslist"
 Time: "November, 2021"
