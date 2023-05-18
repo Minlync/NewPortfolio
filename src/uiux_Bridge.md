@@ -2,7 +2,7 @@
 title:  Bridge UIUX/Development
 layout: base.njk
 tags: ['work','uiux']
-postImg: "kyuramen.jpg"
+postImg: "Bridge.jpg"
 postImgAlt: "Bridge UIUX/Development"
 Time: "May, 2023"
 Location: "New York, NY"
