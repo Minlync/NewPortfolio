@@ -1,7 +1,7 @@
 ---
 title:  Bridge UIUX/Development
 layout: base.njk
-tags: ['work','uiux']
+tags: ['work','website','uiux']
 postImg: "Bridge.jpg"
 postImgAlt: "Bridge UIUX/Development"
 Time: "May, 2023"
@@ -12,7 +12,7 @@ Location: "New York, NY"
       <h1 class="p40">Bridge UIUX Case Study</h1>
       <form>
            <button type="submit" formaction="https://minlync.github.io/Bridge/landing.html"class="button1">See Final App</button>
-           <button type="submit" formaction="https://github.com/Minlync/Bridge"button1">Check the Code</button>
+           <button type="submit" formaction="https://github.com/Minlync/Bridge" class="button1">Check the Code</button>
       </form>
      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/def431170868777.646585e678a25.jpg" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/def431170868777.646585e678a25.jpg 600w, https://mir-s3-cdn-cf.behance.net/project_modules/fs/def431170868777.646585e678a25.jpg 1920w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/def431170868777.646585e678a25.jpg 1200w, https://mir-s3-cdn-cf.behance.net/project_modules/1400/def431170868777.646585e678a25.jpg 1400w, https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/def431170868777.646585e678a25.jpg 1400w, https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/def431170868777.646585e678a25.jpg 2800w, https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/def431170868777.646585e678a25.jpg 3840w" sizes="(max-width: 1400px) 100vw, 1400px" class="ImageElement-image-SRv" alt="" loading="lazy">
      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/8728ef170868777.646519fe84466.jpg" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8728ef170868777.646519fe84466.jpg 600w, https://mir-s3-cdn-cf.behance.net/project_modules/fs/8728ef170868777.646519fe84466.jpg 1920w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8728ef170868777.646519fe84466.jpg 1200w, https://mir-s3-cdn-cf.behance.net/project_modules/1400/8728ef170868777.646519fe84466.jpg 1400w, https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/8728ef170868777.646519fe84466.jpg 1400w, https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/8728ef170868777.646519fe84466.jpg 2800w, https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/8728ef170868777.646519fe84466.jpg 3840w" sizes="(max-width: 1400px) 100vw, 1400px" class="ImageElement-image-SRv" alt="" loading="lazy">
