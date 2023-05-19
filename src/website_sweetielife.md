@@ -21,9 +21,9 @@ h1{
  <div class="container">
       <h1 class="p40">Sweetie Life Website Development</h1>
       <form>
-        <button type="submit" formaction="https://sweetielife.netlify.app/"target="_blank"class="button1">See website</button>  
+        <button type="submit" formaction="https://sweetielife.netlify.app/"target="_blank"class="button1">See website</ </form>button>  
       <button type="submit" formaction="https://www.behance.net/gallery/147476357/Sweetie-Life-Design-and-Development"target="_blank"class="button1">Case Study</button>  
-      </form>
+     
      <h1>MY ROLE</h1>
       <p>This is a school final project for class MMP350 (Advanced Website Design). The original intention of our team to create a sweetie life website aims to instruct pastry lovers on how to create delicate and delicious pastries from all over the world.
      In my role in this project, I was the coding manager and design manager. I was responsible for creating cohesive and visually attractive front-end designs including the website user interface, logo design, color scheme, responsive site, and CSS.
