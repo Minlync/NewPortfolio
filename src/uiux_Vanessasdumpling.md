@@ -2,8 +2,8 @@
 title:  Vanessa's Dumpling House
 layout: base.njk
 tags: ['work','uiux']
-postImg: "kyuramen.jpg"
-postImgAlt: "Kyuramenuidesign"
+postImg: "Vanessa.jpg"
+postImgAlt: "Vanessa"
 Time: "May, 2023"
 Location: "New York, NY"
 ---
