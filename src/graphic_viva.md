@@ -5,7 +5,7 @@ tags: ['work','graphic']
 postImg: "viva.jpg"
 postImgAlt: "VIVA"
 Time: "Jan, 2023"
-Location: "Boston,MA"
+Location: "Boston, MA"
 ---
 <main style="background-color:#000000">
 <div class="container2 p40">
