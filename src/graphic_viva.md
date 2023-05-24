@@ -11,7 +11,7 @@ Location: "Boston, MA"
 <div class="container2 p40">
  <h1 style="color:#ffffff"> VIVA Branding and VIS Guidelines </h1>
       <form>
-        <button type="submit" formaction="https://amstudiousa.wixsite.com/vanessa"target="_blank"class="button1">See Website</button>  
+        <button type="submit" formaction="https://www.vivakaraoke.com/"target="_blank"class="button1">See Website</button>  
       </form>
      <p style="color: #8c8b8b; font-size: 10px;">© 2023 VIVA KARAOKE & STUDIOS. DESIGNED BY AM BRANDING-EVELYN</p>
      <img src="/images/VIVA/Moodboard.jpg" alt="moodboard"  width="100%">
