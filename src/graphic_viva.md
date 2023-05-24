@@ -13,7 +13,7 @@ Location: "Boston, MA"
       <form>
         <button type="submit" formaction="https://www.vivakaraoke.com/"target="_blank"class="button1">See Website</button>  
       </form>
-     <p style="color: #8c8b8b; font-size: 10px;">© 2023 VIVA KARAOKE & STUDIOS. DESIGNED BY AM BRANDING-EVELYN</p>
+     <!-- <p style="color: #8c8b8b; font-size: 10px;">© 2023 VIVA KARAOKE & STUDIOS. DESIGNED BY AM BRANDING-EVELYN</p> -->
      <img src="/images/VIVA/Moodboard.jpg" alt="moodboard"  width="100%">
         <img src="/images/VIVA/Moodboard-2-02.jpg" alt="moodboard2"  width="100%">
         <img src="/images/VIVA/Moodboard-2-06.jpg" alt="moodboard2"  width="100%">
@@ -34,8 +34,8 @@ Location: "Boston, MA"
      <img src="/images/VIVA/VIVA_Brandguideline_Page_15.jpg"alt="15" width="100%">
      <img src="/images/VIVA/VIVA_Brandguideline_Page_16.jpg"alt="16" width="100%">
      <img src="/images/VIVA/VIVA_Brandguideline_Page_17.jpg"alt="17" width="100%">
-     <img src="/images/VIVA/VIVA_Brandguideline_Page_19.jpg"alt="19" width="100%">
-     <img src="/images/VIVA/VIVA_Brandguideline_Page_20.jpg"alt="20" width="100%">
+     <!-- <img src="/images/VIVA/VIVA_Brandguideline_Page_19.jpg"alt="19" width="100%">
+     <img src="/images/VIVA/VIVA_Brandguideline_Page_20.jpg"alt="20" width="100%"> -->
      <img src="/images/VIVA/Hiring Poster.JPG"alt="21" width="100%">
      <img src="/images/VIVA/VIVA_Brandguideline_Page_18.jpg"alt="18" width="100%">
 </div>
